@@ -6,3 +6,5 @@ new1
 new2
 Creating a new branch is quick AND simple.
 modified
+tes1
+test2
